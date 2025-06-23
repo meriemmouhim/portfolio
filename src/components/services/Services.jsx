@@ -8,9 +8,9 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "UI/UX design",
+    title: "Drawing",
     description:
-      "Creating intuitive interfaces and seamless user experiences through wireframing, prototyping, and user-centered design principles. I focus on solving problems with clean aesthetics and functional layouts."
+      "Developing visual communication skills through sketching, illustration, and concept art. My drawing practice enhances my design work and helps me quickly visualize ideas."
   },
   {
     id: 2,
@@ -22,9 +22,9 @@ const data = [
   {
     id: 3,
     image: Image3,
-    title: "Drawing",
+    title: "UI/UX design",
     description:
-      "Developing visual communication skills through sketching, illustration, and concept art. My drawing practice enhances my design work and helps me quickly visualize ideas."
+      "Creating intuitive interfaces and seamless user experiences through wireframing, prototyping, and user-centered design principles. I focus on solving problems with clean aesthetics and functional layouts."
   },
 ];
 

@@ -13,7 +13,9 @@
 
 .home__img {
     margin-bottom: 1.5rem;
-    padding-left: 50px;
+    width: 400px;
+    height: 200px;
+    object-fit: contain;
 }
 
 .home__name {
@@ -44,6 +46,8 @@
     bottom: 2.5rem;
     left: 0;
     width: 100%;
+    z-index: 10;
+    pointer-events: auto;
 }
 
 .home__scroll-name {
@@ -159,6 +163,16 @@
     left: 50%;
     bottom: 85%;
 }
+
+@media screen and (max-width: 1024px) {
+    .home__social-link {
+        font-size: 1.125rem;
+    }
+    
+}
+
+
+
 
 
 
