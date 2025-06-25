@@ -168,6 +168,11 @@
     .home__social-link {
         font-size: 1.125rem;
     }
+    .scroll__down {
+        position: static;
+        margin-top: 1.5rem;
+        text-align: center;
+    }
     
 }
 

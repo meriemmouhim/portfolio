@@ -4,7 +4,7 @@ const AboutBox = () => {
   return (
     <div className="about__boxes grid">
         <div className="about__box">
-            <i class="about__icon fa-solid fa-fire-flame-curved"></i>
+            <i className="about__icon fa-solid fa-fire-flame-curved"></i>
 
             <div>
                 <h3 className="about__title">300+</h3>
@@ -13,7 +13,7 @@ const AboutBox = () => {
         </div>
 
         <div className="about__box">
-            <i class="about__icon fa-solid fa-mug-hot"></i>
+            <i className="about__icon fa-solid fa-mug-hot"></i>
 
             <div>
                 <h3 className="about__title">20+</h3>
