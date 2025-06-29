@@ -12,7 +12,7 @@ const About = () => {
         <img src={Image} alt="" className="about__img" />
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__decription">Heey! I am Meriem Mouhim, web developer from Casablanca, Maroc. I am a web developer and designer, also I am good at WordPress.</p>
+            <p className="about__decription">Hey! I’m Meriem Mouhim, a web developer and designer based in Casablanca, Morocco. I specialize in creating websites from scratch and working with WordPress to build clean, user-friendly experiences.</p>
             <a href="" className="about btn">Download CV</a>
           </div>
           <div className="about__skills grid">
